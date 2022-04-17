@@ -1,0 +1,28 @@
+ls -> lista
+cd / -> Entra no diretorio C
+dir -> Mostra todos os diretorios dentro da pasta
+cd/window -> Entra na pasta windows
+cd .. -> volta uma pasta
+cls -> Limpa o terminal
+TABLE -> Auto completa o nome da pasta
+mkdir "nome da pasta" -> Cria uma pasta
+echo hello > hello.txt --> Redireciona o fluxo para um arquivo
+del "nome do diretorio" -> deletar arquivos no diretório
+rmdir "nome do diretorio" /S/Q -> Deletar o diretório
+openssl sha1 texto.txt -> Mostra o código de criptografia de um arquivo no Git
+ls -a -> Lista arquivos ocultos
+git init -> Criar um repositorio 
+git config --global user.email "thiagonascimento0013@gmail.com" -> Configuraçoes iniciais ao criar um arquivo
+git config --global user.name Perkles -> Configuraçoes iniciais
+$ git config --list -> Lista de configurações
+git config --global --unset user.email
+git config --global user.email "thiagonascimento0013@gmail.com" -> adiciona o emial
+git config --global user.name "Thiago" -> adiciona o nome
+git remote add origin https://github.com/thiagonascimento0013/livro-receitas.git -> Envia arquivos para o GitHub
+git remote -v -> retorna as listas
+git status -> verifica se tem pendencias
+git add * -> Adiciona tudo
+git commit --m "Adiciona receita pave"
+git push origin master -> envia arquivos da máquina para o GitHub
+git clone "link do repositorio" -> clona o repositorio
+git add . ou git add -a -> Adiciona todos os arquivos ao repositorios GitHub
