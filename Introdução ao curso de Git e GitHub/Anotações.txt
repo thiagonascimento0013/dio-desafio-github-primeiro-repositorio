@@ -26,3 +26,4 @@ git commit --m "Adiciona receita pave"
 git push origin master -> envia arquivos da máquina para o GitHub
 git clone "link do repositorio" -> clona o repositorio
 git add . ou git add -a -> Adiciona todos os arquivos ao repositorios GitHub
+git commit -m "comentário"
